@@ -110,7 +110,7 @@ We are especially thankful for those who have contributed pull requests to the c
 
 ### Contributors
 
-* [@ALichtenberg](https://github.com/ALichtenberg) (Adam Lichtenberg)
+* [@megatronGA](https://github.com/megatronGA) (Dave Evans)
 * [@athaynes](https://github.com/athaynes) (Adam Haynes)
 * [@bcwilhite](https://github.com/bcwilhite) (Brian Wilhite)
 * [@bgouldman](https://github.com/bgouldman) (Brian Gouldman)
